@@ -1,7 +1,7 @@
 # CodeTestMoovup
 
 # Problem 1
-A golang code file is available in root level
+A golang code path_sorting.go file is available in root level
 # How to run the App
 You may test it directly on: https://go.dev/play/p/mG_JhoVKpmD
 
